@@ -19,10 +19,12 @@ public class SafeCracker {
 		 * combinations
 		 */
 		
+		tryCode(9999999 - wekncrzpasfdkjhcfjse);
 
 	}
-
+	
 	static void tryCode(int guess) {
+		
 		System.out.println("trying " + guess);
 
 		int secretCode = 9999999 - wekncrzpasfdkjhcfjse;
